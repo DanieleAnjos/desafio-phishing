@@ -1,7 +1,7 @@
-# 💻 Desafio de Phishing para Captura de Senhas do Instagram
+# 💻 Desafio de Phishing para Captura de Senhas do Linkedin
 
 ## 📜 Descrição
-Esse desafio é uma brincadeira com phishing, onde vamos usar algumas técnicas de engenharia social para capturar senhas do Instagram. Mas atenção: isso é só para aprendizado em ambientes controlados e com permissão, beleza? Vamos manter a ética sempre!
+Esse desafio é uma brincadeira com phishing, onde vamos usar algumas técnicas de engenharia social para capturar senhas do Linkedin. Mas atenção: isso é só para aprendizado em ambientes controlados e com permissão, beleza? Vamos manter a ética sempre!
 
 ## ⚙️ Ferramentas Necessárias
 - **VirtualBox**: Um software super útil para criar e gerenciar máquinas virtuais.
@@ -37,7 +37,7 @@ Esse desafio é uma brincadeira com phishing, onde vamos usar algumas técnicas 
 
 7. **URL para Clonagem**: Insira a URL que deseja clonar:
    ```plaintext
-   https://www.instagram.com
+   https://www.linkedin.com/login/pt
    ```
 
 ## 📊 Resultados
